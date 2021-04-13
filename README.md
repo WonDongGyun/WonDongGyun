@@ -7,6 +7,8 @@
 <p align="center"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon_AWS&logoColor=white"/></a></p>
 
 
+![footer](https://capsule-render.vercel.app/api?type=cylinder&color=gradient)
+
 <!--
 **WonDongGyun/WonDongGyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
