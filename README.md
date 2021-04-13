@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient)
 
 
 
