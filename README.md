@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=Hello%Tristy!)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=Hello%20Tristy!)
 
 
 
