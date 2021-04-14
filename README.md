@@ -27,6 +27,14 @@
 </br>
 </br>
 
+<a href="https://solved.ac/wofhdjxor/">
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wofhdjxor" />
+</a>
+
+</br>
+</br>
+</br>
+
 ![footer](https://capsule-render.vercel.app/api?type=cylinder&color=gradient)
 
 <!--
