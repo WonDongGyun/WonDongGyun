@@ -6,7 +6,7 @@
 
 <p align="center"> 📨 email : waterflame1@naver.com </p>
 <p align="center"> 📫 blog : https://tristy.tistory.com/ </p>
-<p align="center"> 📚 notion :  </p>
+<p align="center"> 📚 notion : https://www.notion.so/f69c16ae7f1f459d9aa26f57191941ca </p>
 
 </br>
 </br>
