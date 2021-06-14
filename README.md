@@ -1,5 +1,6 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=Hello%20Tristy!)
-
+-->
 
 <h2 align="center"> 👋 Intro 👋 </h2>
 <p align="center">안녕하세요. 백엔드 개발자 원동균입니다. </br> 저의 깃허브를 방문해주셔서 감사합니다. </br> 똑같은 길을 걷지 않고, 항상 의문을 품고 새로운 길을 만들어나가는 개발자가 되고 싶습니다. </p> 
@@ -55,8 +56,9 @@
 </br>
 </br>
 
+<!--
 ![footer](https://capsule-render.vercel.app/api?type=cylinder&color=gradient)
-
+-->
 <!--
 **WonDongGyun/WonDongGyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
