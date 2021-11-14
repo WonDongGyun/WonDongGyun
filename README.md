@@ -22,7 +22,7 @@
 </br>
 </br>
 
-<h2 align="center"> 🧬 Stat 🧬 </h2>
+<!-- <h2 align="center"> 🧬 Stat 🧬 </h2>
 
 </br>
 </br>
@@ -53,7 +53,7 @@
 </p>
 
 </br>
-</br>
+</br> -->
 
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=cylinder&color=gradient)
