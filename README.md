@@ -5,9 +5,6 @@
 <h2 align="center"> 👋 Intro 👋 </h2>
 <p align="center">안녕하세요. </br> 저의 깃허브를 방문해주셔서 감사합니다. </p> 
 
-<p align="center"> 📨 email : waterflame1@naver.com </p>
-<p align="center"> ✍ blog : https://tristy.tistory.com/ </p>
-
 </br>
 </br>
 </br>
